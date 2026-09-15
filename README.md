@@ -239,4 +239,4 @@ This repository serves as the official landing page for Yaoling: Mythical Journe
 **Get the most recent version of Yaoling: Mythical Journey today!**
 
 ---
-**Last updated:** 2026-09-15 18:36:26 UTC
+**Last updated:** 2026-09-15 21:50:53 UTC
